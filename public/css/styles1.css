@@ -8,11 +8,11 @@ body {
     text-align: center;
 }
 .tl{
-  display: flex;
+  display: inline-flex;
   text-align: center;
-  justify-content: center;
 }
 table,th,td{
+  justify-content: center;
   border: 1.2px solid black;
 }
 th,td{
